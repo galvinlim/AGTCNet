@@ -1,0 +1,66 @@
+AGTCNet+EEGMMIDB+2Class	EEGMMIDB-SN
+
+Training Subject 1
+Subject: 1	Train No.: 1	Seed: 4668	Inference Time: 3.8222 ms	Test Accuracy: 0.8711	Test Kappa: 0.7423	Test Loss: 0.3250	MIN Test Loss: 0.3250	MAX Test MovAve Accuracy: 0.8603	MIN Test MovAve Loss: 0.3558
+Subject: 1	Train No.: 2	Seed: 2380	Inference Time: 3.7382 ms	Test Accuracy: 0.8711	Test Kappa: 0.7422	Test Loss: 0.3402	MIN Test Loss: 0.2995	MAX Test MovAve Accuracy: 0.8633	MIN Test MovAve Loss: 0.3501
+Subject: 1	Train No.: 3	Seed: 3948	Inference Time: 3.8124 ms	Test Accuracy: 0.8733	Test Kappa: 0.7465	Test Loss: 0.3548	MIN Test Loss: 0.3127	MAX Test MovAve Accuracy: 0.8589	MIN Test MovAve Loss: 0.3500
+Subject: 1	BEST Run: 3			BEST Test Accuracy: 0.8733	BEST Test Kappa: 0.7465	BEST Test Loss: 0.3548	BEST MIN Test Loss: 0.3127
+	BEST MovAve Run: 2							BEST MAX Test MovAve Accuracy: 0.8633	BEST MIN Test MovAve Loss: 0.3501
+			AVERAGE Inference Time: 3.7909 ± 0.0375 ms	AVERAGE Test Accuracy: 0.8718 ± 0.0010	AVERAGE Test Kappa: 0.7437 ± 0.0020	AVERAGE Test Loss: 0.3400 ± 0.0122	AVERAGE MIN Test Loss: 0.3124 ± 0.0104	AVERAGE MAX Test MovAve Accuracy: 0.8608 ± 0.0018	AVERAGE MIN Test MovAve Loss: 0.3520 ± 0.0027
+
+Training Subject 2
+Subject: 2	Train No.: 1	Seed: 8814	Inference Time: 3.8044 ms	Test Accuracy: 0.8675	Test Kappa: 0.7349	Test Loss: 0.3615	MIN Test Loss: 0.3332	MAX Test MovAve Accuracy: 0.8540	MIN Test MovAve Loss: 0.3574
+Subject: 2	Train No.: 2	Seed: 6072	Inference Time: 3.7870 ms	Test Accuracy: 0.8586	Test Kappa: 0.7172	Test Loss: 0.3804	MIN Test Loss: 0.3494	MAX Test MovAve Accuracy: 0.8477	MIN Test MovAve Loss: 0.3742
+Subject: 2	Train No.: 3	Seed: 5336	Inference Time: 3.8449 ms	Test Accuracy: 0.8563	Test Kappa: 0.7127	Test Loss: 0.3944	MIN Test Loss: 0.3586	MAX Test MovAve Accuracy: 0.8428	MIN Test MovAve Loss: 0.3900
+Subject: 2	BEST Run: 1			BEST Test Accuracy: 0.8675	BEST Test Kappa: 0.7349	BEST Test Loss: 0.3615	BEST MIN Test Loss: 0.3332
+	BEST MovAve Run: 1							BEST MAX Test MovAve Accuracy: 0.8540	BEST MIN Test MovAve Loss: 0.3574
+			AVERAGE Inference Time: 3.8121 ± 0.0242 ms	AVERAGE Test Accuracy: 0.8608 ± 0.0048	AVERAGE Test Kappa: 0.7216 ± 0.0096	AVERAGE Test Loss: 0.3788 ± 0.0135	AVERAGE MIN Test Loss: 0.3471 ± 0.0105	AVERAGE MAX Test MovAve Accuracy: 0.8482 ± 0.0046	AVERAGE MIN Test MovAve Loss: 0.3739 ± 0.0133
+
+Training Subject 3
+Subject: 3	Train No.: 1	Seed: 2341	Inference Time: 3.7106 ms	Test Accuracy: 0.9004	Test Kappa: 0.8009	Test Loss: 0.3802	MIN Test Loss: 0.2916	MAX Test MovAve Accuracy: 0.8923	MIN Test MovAve Loss: 0.3072
+Subject: 3	Train No.: 2	Seed: 5357	Inference Time: 5.4216 ms	Test Accuracy: 0.8898	Test Kappa: 0.7797	Test Loss: 0.2766	MIN Test Loss: 0.2766	MAX Test MovAve Accuracy: 0.8726	MIN Test MovAve Loss: 0.3075
+Subject: 3	Train No.: 3	Seed: 2956	Inference Time: 4.7052 ms	Test Accuracy: 0.9015	Test Kappa: 0.8030	Test Loss: 0.3076	MIN Test Loss: 0.2784	MAX Test MovAve Accuracy: 0.8889	MIN Test MovAve Loss: 0.3066
+Subject: 3	BEST Run: 3			BEST Test Accuracy: 0.9015	BEST Test Kappa: 0.8030	BEST Test Loss: 0.3076	BEST MIN Test Loss: 0.2784
+	BEST MovAve Run: 1							BEST MAX Test MovAve Accuracy: 0.8923	BEST MIN Test MovAve Loss: 0.3072
+			AVERAGE Inference Time: 4.6125 ± 0.7016 ms	AVERAGE Test Accuracy: 0.8972 ± 0.0053	AVERAGE Test Kappa: 0.7945 ± 0.0105	AVERAGE Test Loss: 0.3215 ± 0.0434	AVERAGE MIN Test Loss: 0.2822 ± 0.0067	AVERAGE MAX Test MovAve Accuracy: 0.8846 ± 0.0086	AVERAGE MIN Test MovAve Loss: 0.3071 ± 0.0004
+
+Training Subject 4
+Subject: 4	Train No.: 1	Seed: 3793	Inference Time: 3.7750 ms	Test Accuracy: 0.8359	Test Kappa: 0.6719	Test Loss: 0.5641	MIN Test Loss: 0.4017	MAX Test MovAve Accuracy: 0.8281	MIN Test MovAve Loss: 0.4581
+Subject: 4	Train No.: 2	Seed: 1682	Inference Time: 3.7274 ms	Test Accuracy: 0.8181	Test Kappa: 0.6361	Test Loss: 0.4653	MIN Test Loss: 0.4155	MAX Test MovAve Accuracy: 0.7977	MIN Test MovAve Loss: 0.4982
+Subject: 4	Train No.: 3	Seed: 8104	Inference Time: 3.6889 ms	Test Accuracy: 0.8393	Test Kappa: 0.6786	Test Loss: 0.5008	MIN Test Loss: 0.4107	MAX Test MovAve Accuracy: 0.8225	MIN Test MovAve Loss: 0.4661
+Subject: 4	BEST Run: 3			BEST Test Accuracy: 0.8393	BEST Test Kappa: 0.6786	BEST Test Loss: 0.5008	BEST MIN Test Loss: 0.4107
+	BEST MovAve Run: 1							BEST MAX Test MovAve Accuracy: 0.8281	BEST MIN Test MovAve Loss: 0.4581
+			AVERAGE Inference Time: 3.7304 ± 0.0352 ms	AVERAGE Test Accuracy: 0.8311 ± 0.0093	AVERAGE Test Kappa: 0.6622 ± 0.0186	AVERAGE Test Loss: 0.5101 ± 0.0409	AVERAGE MIN Test Loss: 0.4093 ± 0.0057	AVERAGE MAX Test MovAve Accuracy: 0.8161 ± 0.0132	AVERAGE MIN Test MovAve Loss: 0.4741 ± 0.0173
+
+Training Subject 5
+Subject: 5	Train No.: 1	Seed: 6025	Inference Time: 3.8723 ms	Test Accuracy: 0.8634	Test Kappa: 0.7267	Test Loss: 0.3205	MIN Test Loss: 0.3205	MAX Test MovAve Accuracy: 0.8426	MIN Test MovAve Loss: 0.3833
+Subject: 5	Train No.: 2	Seed: 6403	Inference Time: 4.2106 ms	Test Accuracy: 0.8743	Test Kappa: 0.7486	Test Loss: 0.3475	MIN Test Loss: 0.3331	MAX Test MovAve Accuracy: 0.8578	MIN Test MovAve Loss: 0.3738
+Subject: 5	Train No.: 3	Seed: 886	Inference Time: 4.3426 ms	Test Accuracy: 0.8702	Test Kappa: 0.7404	Test Loss: 0.4236	MIN Test Loss: 0.3499	MAX Test MovAve Accuracy: 0.8538	MIN Test MovAve Loss: 0.3779
+Subject: 5	BEST Run: 2			BEST Test Accuracy: 0.8743	BEST Test Kappa: 0.7486	BEST Test Loss: 0.3475	BEST MIN Test Loss: 0.3331
+	BEST MovAve Run: 2							BEST MAX Test MovAve Accuracy: 0.8578	BEST MIN Test MovAve Loss: 0.3738
+			AVERAGE Inference Time: 4.1418 ± 0.1980 ms	AVERAGE Test Accuracy: 0.8693 ± 0.0045	AVERAGE Test Kappa: 0.7386 ± 0.0090	AVERAGE Test Loss: 0.3639 ± 0.0437	AVERAGE MIN Test Loss: 0.3345 ± 0.0120	AVERAGE MAX Test MovAve Accuracy: 0.8514 ± 0.0064	AVERAGE MIN Test MovAve Loss: 0.3783 ± 0.0039
+
+SUMMARY
+Subject: 1	BEST Run: 3	BEST Test Accuracy: 0.8733	BEST Test Kappa: 0.7465	BEST Test Loss: 0.3548	BEST MIN Test Loss: 0.3127
+	BEST MovAve Run: 2					BEST MAX Test MovAve Accuracy: 0.8633	BEST MIN Test MovAve Loss: 0.3501
+			AVERAGE Inference Time: 3.7909 ± 0.0375 ms	AVERAGE Test Accuracy: 0.8718 ± 0.0010	AVERAGE Test Kappa: 0.7437 ± 0.0020	AVERAGE Test Loss: 0.3400 ± 0.0122	AVERAGE MIN Test Loss: 0.3124 ± 0.0104	AVERAGE MAX Test MovAve Accuracy: 0.8608 ± 0.0018	AVERAGE MIN Test MovAve Loss: 0.3520 ± 0.0027
+Subject: 2	BEST Run: 1	BEST Test Accuracy: 0.8675	BEST Test Kappa: 0.7349	BEST Test Loss: 0.3615	BEST MIN Test Loss: 0.3332
+	BEST MovAve Run: 1					BEST MAX Test MovAve Accuracy: 0.8540	BEST MIN Test MovAve Loss: 0.3574
+			AVERAGE Inference Time: 3.8121 ± 0.0242 ms	AVERAGE Test Accuracy: 0.8608 ± 0.0048	AVERAGE Test Kappa: 0.7216 ± 0.0096	AVERAGE Test Loss: 0.3788 ± 0.0135	AVERAGE MIN Test Loss: 0.3471 ± 0.0105	AVERAGE MAX Test MovAve Accuracy: 0.8482 ± 0.0046	AVERAGE MIN Test MovAve Loss: 0.3739 ± 0.0133
+Subject: 3	BEST Run: 3	BEST Test Accuracy: 0.9015	BEST Test Kappa: 0.8030	BEST Test Loss: 0.3076	BEST MIN Test Loss: 0.2784
+	BEST MovAve Run: 1					BEST MAX Test MovAve Accuracy: 0.8923	BEST MIN Test MovAve Loss: 0.3072
+			AVERAGE Inference Time: 4.6125 ± 0.7016 ms	AVERAGE Test Accuracy: 0.8972 ± 0.0053	AVERAGE Test Kappa: 0.7945 ± 0.0105	AVERAGE Test Loss: 0.3215 ± 0.0434	AVERAGE MIN Test Loss: 0.2822 ± 0.0067	AVERAGE MAX Test MovAve Accuracy: 0.8846 ± 0.0086	AVERAGE MIN Test MovAve Loss: 0.3071 ± 0.0004
+Subject: 4	BEST Run: 3	BEST Test Accuracy: 0.8393	BEST Test Kappa: 0.6786	BEST Test Loss: 0.5008	BEST MIN Test Loss: 0.4107
+	BEST MovAve Run: 1					BEST MAX Test MovAve Accuracy: 0.8281	BEST MIN Test MovAve Loss: 0.4581
+			AVERAGE Inference Time: 3.7304 ± 0.0352 ms	AVERAGE Test Accuracy: 0.8311 ± 0.0093	AVERAGE Test Kappa: 0.6622 ± 0.0186	AVERAGE Test Loss: 0.5101 ± 0.0409	AVERAGE MIN Test Loss: 0.4093 ± 0.0057	AVERAGE MAX Test MovAve Accuracy: 0.8161 ± 0.0132	AVERAGE MIN Test MovAve Loss: 0.4741 ± 0.0173
+Subject: 5	BEST Run: 2	BEST Test Accuracy: 0.8743	BEST Test Kappa: 0.7486	BEST Test Loss: 0.3475	BEST MIN Test Loss: 0.3331
+	BEST MovAve Run: 2					BEST MAX Test MovAve Accuracy: 0.8578	BEST MIN Test MovAve Loss: 0.3738
+			AVERAGE Inference Time: 4.1418 ± 0.1980 ms	AVERAGE Test Accuracy: 0.8693 ± 0.0045	AVERAGE Test Kappa: 0.7386 ± 0.0090	AVERAGE Test Loss: 0.3639 ± 0.0437	AVERAGE MIN Test Loss: 0.3345 ± 0.0120	AVERAGE MAX Test MovAve Accuracy: 0.8514 ± 0.0064	AVERAGE MIN Test MovAve Loss: 0.3783 ± 0.0039
+
+All Subjects - ALL RUNS
+		MAX Test Accuracy: 0.9015	MAX Test Kappa: 0.8030	MIN Test Loss: 0.2766	MIN MIN Test Loss: 0.2766	MAX Test MovAve Accuracy: 0.8923	MIN Test MovAve Loss: 0.3066
+			AVERAGE Inference Time: 4.0176 ± 0.4648 ms	AVERAGE Test Accuracy: 0.8661 ± 0.0220	AVERAGE Test Kappa: 0.7321 ± 0.0441	AVERAGE Test Loss: 0.3829 ± 0.0748	AVERAGE MIN Test Loss: 0.3371 ± 0.0433	AVERAGE MAX Test MovAve Accuracy: 0.8522 ± 0.0235	AVERAGE MIN Test MovAve Loss: 0.3771 ± 0.0556
+
+All Subjects - BEST RUNS
+		MAX Test Accuracy: 0.9015	MAX Test Kappa: 0.8030	MIN Test Loss: 0.3076	MIN MIN Test Loss: 0.2784	MAX Test MovAve Accuracy: 0.8923	MIN Test MovAve Loss: 0.3072
+		AVERAGE Test Accuracy: 0.8712 ± 0.0198	AVERAGE Test Kappa: 0.7423 ± 0.0396	AVERAGE Test Loss: 0.3745 ± 0.0659	AVERAGE MIN Test Loss: 0.3336 ± 0.0434	AVERAGE MAX Test MovAve Accuracy: 0.8591 ± 0.0205	AVERAGE MIN Test MovAve Loss: 0.3693 ± 0.0495
