@@ -1,6 +1,6 @@
 # AGTCNet: A Graph-Temporal Approach for Principled Motor Imagery EEG Classification
 
-The ***Attentive Graph-Temporal Convolutional Network (AGTCNet)*** is a novel graph-temporal model designed for subject-invariant and session-invariant motor imagery EEG (MI-EEG) classification.
+The ***Attentive Graph-Temporal Convolutional Network (AGTCNet)*** is a novel graph-temporal model designed for subject-independent (subject-invariant) and subject-specific (session-invariant) motor imagery EEG (MI-EEG) classification.
 
 
 ## Dependencies
@@ -58,7 +58,7 @@ MODEL_NAME = 'DB-ATCNet'    # 'EEGNet' | 'EEG-TCNet' | 'TCNet-Fusion' | 'ATCNet'
   <thead>
     <tr>
       <th rowspan="2" style="text-align: left;">Datasets (Classes)</th>
-      <th colspan="3" style="text-align: center;">Subject-Invariant</th>
+      <th colspan="3" style="text-align: center;">Subject-Independent</th>
       <th colspan="3" style="text-align: center; border-left: 1px solid black;">Subject-Specific</th>
     </tr>
     <tr>
